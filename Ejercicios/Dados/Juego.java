@@ -4,7 +4,7 @@
  *  Modificación:	31/08/2017 15:28
  * */
 
-package dados_enum;
+package dados;
 
 public class Juego {
 	private static int valor_dado_uno;
